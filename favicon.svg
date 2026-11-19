@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Batu Peringatan: a small cairn of stones on the site's paper -->
+  <rect width="32" height="32" rx="7" fill="#f7f2e8"/>
+  <g fill="#8f4a26">
+    <ellipse cx="16" cy="24.6" rx="11" ry="3.9"/>
+    <ellipse cx="15.3" cy="15.6" rx="7.6" ry="3.1" transform="rotate(-3 15.3 15.6)"/>
+    <ellipse cx="16.6" cy="7.6" rx="4.8" ry="2.8" transform="rotate(4 16.6 7.6)"/>
+  </g>
+</svg>
